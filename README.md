@@ -1,6 +1,32 @@
-# 💫 About Me:
-# 👋 ¡Hola! Soy Dagazci<br><br>Soy un desarrollador web apasionado por crear experiencias digitales funcionales y atractivas. Me especializo en **Python** y **Kotlin**, y disfruto explorar nuevas tecnologías que me permitan seguir creciendo como profesional.<br><br>## 💻 Tecnologías que uso<br><br>- 🐍 Python (FastAPI, Flask, Django)<br>- 🤖 Kotlin (Android Development)<br>- 🌐 HTML, CSS, JavaScript<br>- ⚙️ Git & GitHub<br>- 🧪 SQL, Firebase, REST APIs<br><br>## 🚀 En qué estoy trabajando<br><br>Actualmente estoy desarrollando proyectos personales que combinan backend robust limpias y responsivas. También me interesa el desarrollo móvil y la automatización de tareas.<br><br>## 📫 ¿Quieres colaborar o charlar?<br><br>Estoy abierto a colaboraciones, ideas locas o simplemente una buena conversación sobre código, música o creatividad. ¡No dudes en escribirme!<br><br>---<br><br>> _"El código es poesía cuando se escribe con pasión."_ ✨
+# 👋 ¡Hola! Soy Anthony
 
+Soy un desarrollador web apasionado por crear experiencias digitales funcionales y atractivas. Me especializo en **Python** y **Kotlin**, y disfruto explorar nuevas tecnologías que me permitan seguir creciendo como profesional.
+
+## 💻 Tecnologías que uso
+
+- 🐍 Python (FastAPI, Flask, Django)
+- 🤖 Kotlin (Android Development)
+- 🌐 HTML, CSS, JavaScript
+- ⚙️ Git & GitHub
+- 🧪 SQL, Firebase, REST APIs
+
+## 🚀 En qué estoy trabajando
+
+Actualmente estoy desarrollando proyectos personales que combinan backend robust limpias y responsivas. También me interesa el desarrollo móvil y la automatización de tareas.
+
+## 📺 Encuéntrame en otros espacios
+
+- 🐦 [X (Twitter)](https://x.com/dagazcii)
+- 🎮 [Twitch](https://twitch.tv/Anthony_Romero2)
+- 🎵 [TikTok](https://tiktok.com/@anthony_bergling)
+
+## 📫 ¿Quieres colaborar o charlar?
+
+Estoy abierto a colaboraciones, ideas locas o simplemente una buena conversación sobre código, música o creatividad. ¡No dudes en escribirme!
+
+---
+
+> _"El código es poesía cuando se escribe con pasión."_ ✨
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anthonydevxx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Anthonydev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dagazcii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orellanaorlin27@gmail.com ) 
