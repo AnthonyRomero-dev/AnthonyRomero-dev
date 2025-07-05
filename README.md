@@ -14,11 +14,6 @@ Soy un desarrollador web apasionado por crear experiencias digitales funcionales
 
 Actualmente estoy desarrollando proyectos personales que combinan backend robust limpias y responsivas. También me interesa el desarrollo móvil y la automatización de tareas.
 
-## 📺 Encuéntrame en otros espacios
-
-- 🐦 [X (Twitter)](https://x.com/dagazcii)
-- 🎮 [Twitch](https://twitch.tv/Anthony_Romero2)
-- 🎵 [TikTok](https://tiktok.com/@anthony_bergling)
 
 ## 📫 ¿Quieres colaborar o charlar?
 
