@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hola, soy Anthony 👋<br>Desarrollador web y mobile con experiencia en crear aplicaciones que la gente realmente usa. Me gusta escribir código limpio y resolver problemas reales.<br>Lo que hago<br>Trabajo principalmente en desarrollo web y apps móviles. He construido desde landing pages hasta aplicaciones completas con sus backends. Me siento cómodo tanto en frontend como en backend, aunque siempre hay algo nuevo que aprender.<br>Web: JavaScript, React, Node.js, HTML/CSS. También he trabajado con Vue y Angular dependiendo del proyecto.<br>Mobile: React Native es mi go-to para apps multiplataforma. He publicado apps tanto en iOS como en Android.<br>Backend: Node.js con Express, bases de datos SQL y NoSQL. APIs REST y todo lo que necesites del lado del servidor.<br>Otras herramientas: Git, Docker, un poco de AWS, testing con Jest. Lo básico para mantener todo funcionando.<br>Contacto<br>Si quieres colaborar en algo o simplemente charlar sobre desarrollo:<br>📧 dagazcii@gmail.com<br>🌐 www.portafolio.com
+# Hey! 👋
+
+Soy Anthony, desarrollador web y mobile. Me dedico a construir aplicaciones que resuelven problemas reales y que la gente disfruta usar.
+
+## Un poco sobre mí
+
+Trabajo con JavaScript tanto en frontend como en backend. Me gusta pensar en mí mismo como full-stack, aunque honestamente cada proyecto me enseña que siempre hay más por aprender.<br><br>He trabajado en proyectos de todo tipo: desde landing pages sencillas hasta aplicaciones completas con arquitecturas más complejas. Lo que más me motiva es ver cómo algo que construí termina siendo útil para alguien.
+
+## Stack que manejo
+
+**Frontend**<br>React es donde paso la mayor parte de mi tiempo, pero también he trabajado con Vue y Angular según lo que el proyecto necesitaba. HTML, CSS y JavaScript son el pan de cada día.<br><br>**Mobile**<br>Para apps móviles uso React Native. Ya he publicado aplicaciones en ambas stores (iOS y Android) y me encanta poder escribir una vez y desplegar en ambas plataformas.<br><br>**Backend**<br>Node.js con Express es mi combo habitual. Manejo tanto SQL como NoSQL dependiendo del caso de uso, y tengo experiencia construyendo APIs REST desde cero.<br><br>**Herramientas del día a día**<br>Git para versionado (obvio), Docker para contenedores, algo de AWS cuando toca infraestructura, y Jest para testing. Lo suficiente para que las cosas no se caigan en producción 😅
+
+## Hablemos
+
+Si tienes un proyecto en mente, necesitas ayuda con algo, o simplemente quieres charlar sobre tecnología, escríbeme:<br><br>📧 dagazcii@gmail.com
 
 
 ## 🌐 Socials:
